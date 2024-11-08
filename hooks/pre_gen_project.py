@@ -1,4 +1,4 @@
-print("Hello word")
+print("First Steps")
 
 import os
 import sys

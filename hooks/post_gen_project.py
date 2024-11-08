@@ -1,4 +1,5 @@
-print("Bye bye")
+print("Last Steps")
+
 import os
 import subprocess
 
