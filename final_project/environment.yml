@@ -1,0 +1,21 @@
+# conda env create --file environment.yml
+# mamba env create --file environment.yml
+name: final_project
+channels:
+  - python=3.12.3
+  - defaults
+dependencies:
+  - black
+  - invoke
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - nbdime
+  - numpy
+  - pandas
+  - pip
+  - plotly
+  - pyjanitor
+  - pyprojroot
+  - seaborn
+  
